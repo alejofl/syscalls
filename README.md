@@ -1,5 +1,4 @@
 # syscalls
-System Calls and ASM documentation for easy access.
 
 * [Cartilla ASM](https://alejofl.github.io/syscalls/cartilla/IntelCodeTable.pdf)
 
